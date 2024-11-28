@@ -8,3 +8,9 @@ Tutoring: A comprehensive educational hub where students can access learning mat
 Health: This section provides access to medical consultations, prescription drugs, and delivery services, all tailored to the needs of students. It includes peer-to-peer delivery for medications, allowing students to support each other in maintaining their well-being.
 
 Services: A student-run marketplace where users can hire fellow students to help with everyday tasks such as laundry, groceries, and package deliveries. It encourages collaboration and builds a supportive community by connecting students with various skill sets.
+
+Vision: Create a platform offering tutoring, health, and services to students in a seamless and user-friendly way.
+Goals:
+Provide a centralized platform for academic resources, health services, and student-driven gigs.
+Ensure affordability and accessibility for students.
+Implement a revenue model to sustain the platform.
